@@ -13,7 +13,7 @@ Dando a liberdade de importar suas bibliotecas e aplicações á sites externos.
 
  Contendo _Node.js_ instalado no seu local de inicialização, adicione o token do seu bot do discord no código (bot.js).
  E utilizando _npm run deploy_ e _npm start bot.js_, o bot já está funcionando, apenas utilizar o comando **/login** (contendo digito e uf).
- Exemplo: **/login ra:1110000001sp senha:escola12@
+ Exemplo: **/login ra:1110000001sp senha:escola12@**
 
 
  > sou apenas um estudante de programação, entusiasta em buscar vúlnerabilidades e doido por javascript (não me prende pf).
